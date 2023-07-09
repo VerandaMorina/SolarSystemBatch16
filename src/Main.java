@@ -11,5 +11,12 @@ public class Main {
         xeon.size="1cm";
         xeon.color="pink";
         xeon.temp="-46";
+
+        Planet2 Inux=new Planet2();
+        Inux.name="Orzyy";
+        Inux.color="black";
+        Inux.size="34km";
+        Inux.temp="-50Degres";
+
     }
 }
