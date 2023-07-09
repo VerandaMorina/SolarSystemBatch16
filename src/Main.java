@@ -5,5 +5,11 @@ public class Main {
         Omanx.Sun="1";
         Omanx.Planets="2";
         Omanx.Star="4";
+
+        Planet2 Inux=new Planet2();
+        Inux.name="Orzyy";
+        Inux.color="black";
+        Inux.size="34km";
+        Inux.temp="-50Degres";
     }
 }
