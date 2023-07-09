@@ -5,5 +5,11 @@ public class Main {
         Omanx.Sun="1";
         Omanx.Planets="2";
         Omanx.Star="4";
+
+        Planet1 xeon=new Planet1();
+        xeon.name="seoo";
+        xeon.size="1cm";
+        xeon.color="pink";
+        xeon.temp="-46";
     }
 }
